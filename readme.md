@@ -1,4 +1,4 @@
-#Specifications 
+# Specifications 
 
 ### Registration form 
 - name
@@ -33,9 +33,10 @@
  - Activation code
 
 
-##Requirements:
+## Requirements:
+0. Please create development branch and work on it.  
 1. Create html pages as mentioned above. 
 2. Dockerize your application. 
 3. Data needs to be stored in Mysql. 
 4. You can use any libraries.
-5. Good luck!
+5. Good luck ;)
